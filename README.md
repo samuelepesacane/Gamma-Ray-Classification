@@ -12,3 +12,7 @@ SVM
 Decision Tree
 Random Forest
 Neural Network
+
+
+Author:
+Samuele Pesacane, Alessio Roscioli (@alessio-git21)
