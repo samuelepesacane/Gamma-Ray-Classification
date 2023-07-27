@@ -14,5 +14,5 @@ Random Forest
 Neural Network
 
 
-Author:
+Authors:
 Samuele Pesacane, [Alessio Roscioli](https://github.com/alessio-git21)
