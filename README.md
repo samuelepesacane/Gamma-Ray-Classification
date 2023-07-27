@@ -15,4 +15,4 @@ Neural Network
 
 
 Author:
-Samuele Pesacane, Alessio Roscioli (@alessio-git21)
+Samuele Pesacane, [Alessio Roscioli](https://github.com/alessio-git21)
